@@ -1,4 +1,4 @@
-﻿using System.Data.Entity;
+﻿
 
 namespace Evaluacion_Ray.Models
 {

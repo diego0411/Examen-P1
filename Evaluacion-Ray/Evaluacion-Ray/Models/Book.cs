@@ -14,11 +14,9 @@ namespace Evaluacion_Ray.Models
 
     public class Book
     {
-        private const int V = 50;
-        private const int V1 = 50;
-
+       
         [key]
-        public int contact { get; set; }
+        public int contactID { get; set; }
         [Required]
        [Range(5,50)]
         public string name { get; set; }

@@ -170,7 +170,6 @@
     <Compile Include="Models\Book.cs" />
     <Compile Include="Models\DataContext.cs" />
     <Compile Include="Models\keyAttribute.cs" />
-    <Compile Include="Models\List.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
